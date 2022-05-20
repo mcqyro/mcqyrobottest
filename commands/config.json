@@ -1,0 +1,9 @@
+{
+    "prefix": "!",
+    "helper":"!ping / !namen / !help / !leute / !cc / !botinfo / An anderen Befehlen wird noch gearbeitet!",
+    "helper2":"Befehle:",
+    "bot_name":"MyBot3",
+    "bot_age":"0.5",
+    "bot_version":"1.7"
+
+}
